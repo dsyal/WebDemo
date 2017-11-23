@@ -5,6 +5,3 @@ console.log(moment().startOf('day').fromNow());
 var name = "Bob",
 	time = "today";
 console.log(`Hello ${name}, how are you ${time}?`);
-console.log('test');
-console.log('test02');
-console.log('test03');
