@@ -1,5 +1,8 @@
 # 现代 JavaScript 开发
 
+原文：https://mp.weixin.qq.com/s/jgYMCl39nLk_lOXjC3Y6JA
+经过dsyal重新编辑和修改
+
 ## 一、使用 JavaScript 包管理工具（npm）
 
 ### 作用  
